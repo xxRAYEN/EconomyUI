@@ -2,7 +2,7 @@
 name: EconomyUI
 version: 1.0
 main: xxRAYEN\EconomyUI\Main
-api: 4.0.0
+api: 3.0.0
 author: xxRAYEN
 commands:
  bank:
