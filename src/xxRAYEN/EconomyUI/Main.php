@@ -204,9 +204,9 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
@@ -410,9 +410,9 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
@@ -616,9 +616,9 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
@@ -822,9 +822,9 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
@@ -1033,15 +1033,15 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
-								$formLANG->setTitle("§b§lSPRACHE");
-								$formLANG->setContent("§7Setze deine Server §bSprache §7hier:");
-								$formLANG->addButton("§4§lABBRECHEN");
+								$formLANG->setTitle("§b§lLANGUAGE");
+								$formLANG->setContent("§7Set your server §blanguage §7here:");
+								$formLANG->addButton("§4§lCANCEL");
 								$formLANG->addButton("§cEnglish");
 								$formLANG->addButton("§bDeutsch");
 								$formLANG->addButton("§bFrançais");
@@ -1244,15 +1244,15 @@ class Main extends PluginBase implements Listener{
 											break;
 										case 6:
 											$start = "§7[ §b§lSYSTEM §r§7] ";
-											$this->getConfig()->set("lang", "italian");
+											$this->getConfig()->set("lang", "italiano");
 											$this->getConfig()->save();
-											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+											$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 											break;
 									}
 								});
-								$formLANG->setTitle("§b§lSPRACHE");
-								$formLANG->setContent("§7Setze deine Server §bSprache §7hier:");
-								$formLANG->addButton("§4§lABBRECHEN");
+								$formLANG->setTitle("§b§lLANGUE");
+								$formLANG->setContent("§7Définissez la §blangue §7de votre serveur ici:");
+								$formLANG->addButton("§4§lAVORTER");
 								$formLANG->addButton("§bEnglish");
 								$formLANG->addButton("§bDeutsch");
 								$formLANG->addButton("§cFrançais");
@@ -1316,9 +1316,9 @@ class Main extends PluginBase implements Listener{
 								break;
 							case 5:
 								$start = "§7[ §b§lSYSTEM §r§7] ";
-								$this->getConfig()->set("lang", "italian");
+								$this->getConfig()->set("lang", "italiano");
 								$this->getConfig()->save();
-								$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliana§a!");
+								$sender->sendMessage($start . "§aImpostato con successo sulla lingua §citaliano§a!");
 								break;
 						}
 					});
