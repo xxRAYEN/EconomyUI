@@ -5,5 +5,5 @@ branches:
 projects:
   EconomyUI:
     path: ""
-    icon: dollar
+    icon: "dollar.jpg"
 ...
